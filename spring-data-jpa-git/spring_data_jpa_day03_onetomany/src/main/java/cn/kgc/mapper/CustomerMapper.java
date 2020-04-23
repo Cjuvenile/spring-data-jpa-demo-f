@@ -7,8 +7,6 @@ import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 /**
  * @program: spring_data_jpa->CustomerMapper
  * @description: 客户dao接口
- * @author: 兵哥
- * @create: 2020-02-28 10:48
  **/
 public interface CustomerMapper extends JpaRepository<Customer, Integer>, JpaSpecificationExecutor<Customer> {
 }
