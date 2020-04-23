@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d5c4c86-191a-4ea3-a6eb-22ddc0ae8383" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cn/kgc/entity/Customer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/cn/kgc/entity/Linkman.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YZuBrLxsAxEEzVuYEhHwivcsWt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kgc.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\jpa\spring_data_jpa_day03_onetomany\src\main\java\cn\kgc\mapper" />
+      <recent name="D:\idea\jpa\spring_data_jpa_day03_onetomany\src\main\java\cn\kgc\entity" />
+      <recent name="D:\idea\jpa\spring_data_jpa_day03_onetomany\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OneToManyTest.testCascadeAdd">
+    <configuration name="OneToManyTest.testAdd01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day03_onetomany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.OneToManyTest" />
+      <option name="METHOD_NAME" value="testAdd01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyTest.testAdd02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day03_onetomany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.OneToManyTest" />
+      <option name="METHOD_NAME" value="testAdd02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyTest.testCascadeAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day03_onetomany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.OneToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyTest.testCascadeRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day03_onetomany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.OneToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OneToManyTest.testCascadeAdd" />
+        <item itemvalue="JUnit.OneToManyTest.testCascadeRemove" />
+        <item itemvalue="JUnit.OneToManyTest.testAdd02" />
+        <item itemvalue="JUnit.OneToManyTest.testAdd01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5c4c86-191a-4ea3-a6eb-22ddc0ae8383" name="Default Changelist" comment="" />
+      <created>1583162304534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583162304534</updated>
+      <workItem from="1583162307383" duration="2223000" />
+      <workItem from="1583218104830" duration="339000" />
+      <workItem from="1583220004819" duration="2679000" />
+      <workItem from="1583223161337" duration="1441000" />
+      <workItem from="1586928500074" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="135" key="#Project_Structure" timestamp="1583162899428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="135" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583162899428" />
+    <state x="1089" y="402" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583162432342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1089" y="402" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583162432342" />
+    <state x="897" y="229" key="FileChooserDialogImpl" timestamp="1583224602131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="897" y="229" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583224602131" />
+    <state width="1877" height="209" key="GridCell.Tab.0.bottom" timestamp="1583223147036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583223147036" />
+    <state width="1877" height="209" key="GridCell.Tab.0.center" timestamp="1583223147036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583223147036" />
+    <state width="1877" height="209" key="GridCell.Tab.0.left" timestamp="1583223147036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583223147036" />
+    <state width="1877" height="209" key="GridCell.Tab.0.right" timestamp="1583223147036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583223147036" />
+    <state x="620" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1583223667596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583223667596" />
+    <state x="492" y="175" key="new project wizard" timestamp="1583223169458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="492" y="175" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583223169458" />
+  </component>
+</project>

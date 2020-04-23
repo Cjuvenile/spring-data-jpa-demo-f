@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7016bb4-0a45-4611-b23d-277b84e6bb90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cn/kgc/entity/Customer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/cn/kgc/mapper/CustomerMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/cn/kgc/test/CustomerMappeTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YYyyzeANNg3s60avg0LVmuZsV1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\jpa\spring_data_jpa_day02\src\test\java\cn\kgc\test" />
+      <recent name="D:\idea\jpa\spring_data_jpa_day02\src\main\java\cn\kgc\mapper" />
+      <recent name="D:\idea\jpa\spring_data_jpa_day02\src\main\java\cn\kgc\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JpqlTest.testFingByLikeCustNameAndCustId">
+    <configuration name="JpqlTest.testFindByCustName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.JpqlTest" />
+      <option name="METHOD_NAME" value="testFindByCustName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlTest.testFingByLikeCustNameAndCustId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.JpqlTest" />
+      <option name="METHOD_NAME" value="testFingByLikeCustNameAndCustId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlTest.testGetOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.JpqlTest" />
+      <option name="METHOD_NAME" value="testGetOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlTest.testGetOne2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.JpqlTest" />
+      <option name="METHOD_NAME" value="testGetOne2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlTest.testUpdateCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_data_jpa_day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.JpqlTest" />
+      <option name="METHOD_NAME" value="testUpdateCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JpqlTest.testFingByLikeCustNameAndCustId" />
+        <item itemvalue="JUnit.JpqlTest.testFindByCustName" />
+        <item itemvalue="JUnit.JpqlTest.testUpdateCustomer" />
+        <item itemvalue="JUnit.JpqlTest.testGetOne2" />
+        <item itemvalue="JUnit.JpqlTest.testGetOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7016bb4-0a45-4611-b23d-277b84e6bb90" name="Default Changelist" comment="" />
+      <created>1583134080382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583134080382</updated>
+      <workItem from="1583134082817" duration="6188000" />
+      <workItem from="1583224632042" duration="443000" />
+      <workItem from="1586928463963" duration="195000" />
+      <workItem from="1586928732393" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1046" y="215" key="#Inspections" timestamp="1583136979828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="215" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1583136979828" />
+    <state x="736" y="205" key="#Project_Structure" timestamp="1583134144712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="205" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583134144712" />
+    <state x="767" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583136526375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583136526375" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1586928597855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586928597855" />
+    <state width="1877" height="19" key="GridCell.Tab.0.bottom" timestamp="1583140757737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="19" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583140757737" />
+    <state width="1877" height="19" key="GridCell.Tab.0.center" timestamp="1583140757737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="19" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583140757737" />
+    <state width="1877" height="19" key="GridCell.Tab.0.left" timestamp="1583140757737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="19" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583140757737" />
+    <state width="1877" height="19" key="GridCell.Tab.0.right" timestamp="1583140757737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="19" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583140757737" />
+  </component>
+</project>
